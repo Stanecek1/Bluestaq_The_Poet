@@ -9,4 +9,5 @@ somethings that I would improve or change given the time.
 2) add More styling
 3) Add fade in / fade outs and other animations
 4) Caching poems so the app doesnt have to fetch the same poem multiple times
+5) There is a bug that causes an error if the title of a poem contians a '/'
 
